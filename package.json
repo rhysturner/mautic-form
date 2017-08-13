@@ -1,0 +1,25 @@
+{
+  "name": "mautic-form",
+  "version": "1.0.0",
+  "description": "boots the onload function for a mautic form\"",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhysturner/mautic-form.git"
+  },
+  "keywords": [
+    "mautic",
+    "form"
+  ],
+  "author": "Rhys Turner <rhys.turnstylez@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhysturner/mautic-form/issues"
+  },
+  "homepage": "https://github.com/rhysturner/mautic-form#readme"
+}
